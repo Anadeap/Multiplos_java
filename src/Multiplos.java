@@ -24,7 +24,7 @@ public class Multiplos {
         }
         else{
             System.out.println(x + " no es múltiplo de " + y);       
-        }
+        }// fin del main
     } 
 } 
 
